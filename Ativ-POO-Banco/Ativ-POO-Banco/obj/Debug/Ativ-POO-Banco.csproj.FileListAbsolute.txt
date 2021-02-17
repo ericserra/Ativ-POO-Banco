@@ -1,0 +1,7 @@
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\bin\Debug\Ativ-POO-Banco.exe.config
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\bin\Debug\Ativ-POO-Banco.exe
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\bin\Debug\Ativ-POO-Banco.pdb
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\obj\Debug\Ativ-POO-Banco.csprojAssemblyReference.cache
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\obj\Debug\Ativ-POO-Banco.csproj.CoreCompileInputs.cache
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\obj\Debug\Ativ-POO-Banco.exe
+C:\Users\erics\source\repos\Ativ-POO-Banco\Ativ-POO-Banco\obj\Debug\Ativ-POO-Banco.pdb
